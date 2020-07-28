@@ -1,0 +1,2 @@
+Something went wrong
+The error was using magic numbers

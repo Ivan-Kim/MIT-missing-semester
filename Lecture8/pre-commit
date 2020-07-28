@@ -1,0 +1,6 @@
+#!/bin/sh
+
+if ! make paper.pdf ; then
+	echo "Cannot make paper.pdf"
+	exit 1
+fi

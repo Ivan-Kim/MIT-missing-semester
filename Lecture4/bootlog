@@ -1,0 +1,10 @@
+2020-04-29 09:46:04.022430+0900 0x0        Timesync    0x0                  0      0    === system boot: C4C57548-7964-483A-A0E9-8FD49A6088C6
+2020-04-29 09:46:04.683152+0900 0xa9       Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
+2020-04-30 10:29:36.548522+0900 0x0        Timesync    0x0                  0      0    === system boot: 744D2E6F-C6C4-4B7D-9C5C-6A23926DA18F
+2020-04-30 10:29:37.192711+0900 0xa9       Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
+2020-05-01 13:20:07.399169+0900 0x0        Timesync    0x0                  0      0    === system boot: 95449509-D815-464B-AF47-D3B7B84D1F9D
+2020-05-01 13:20:08.067330+0900 0xa9       Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
+2020-05-03 06:40:35.166534+0900 0x0        Timesync    0x0                  0      0    === system boot: 3027F239-9B01-4FDF-8A79-717768D7EED8
+2020-05-03 06:40:35.837244+0900 0xa9       Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
+2020-05-03 11:10:42.683471+0900 0x0        Timesync    0x0                  0      0    === system boot: 5FC7DB2C-214F-416D-8644-2461D6427314
+2020-05-03 11:10:43.359825+0900 0xa9       Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
